@@ -1,5 +1,5 @@
 # Data Engineer Workshop 1: ETL Pipeline & Data Warehouse
-
+https://github.com/Zocar5807/workshop_1
 ## 1. Project Objective
 This project simulates a real-world Data Engineering technical challenge. The goal is to design and implement an end-to-end ETL pipeline that extracts 50,000 rows of candidate application data from a CSV file, transforms it by applying specific business rules, and loads it into a PostgreSQL Data Warehouse utilizing a Dimensional Data Model (Star Schema). Finally, analytical KPIs are generated directly from the Data Warehouse to support business intelligence decisions.
 
